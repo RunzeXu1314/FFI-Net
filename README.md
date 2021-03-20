@@ -3,13 +3,13 @@ A deep-learning program, called fast fluorescent identification network (FFI-Net
 
 ---
 ## Requirements  
-1.Create Anaconda environment with python 3.7 in Anaconda prompt:  
+1. Create Anaconda environment with python 3.7 in Anaconda prompt:  
 > conda create -n py3.7 python=3.7  
 
-2.Activate the py3.7 environment:  
+2. Activate the py3.7 environment:  
 > conda activate py3.7  
 
-3.Install other requirements:  
+3. Install other requirements:  
 
 tensorflow 2.2.0: 
 > pip install tensorflow==2.2.0  
@@ -35,4 +35,6 @@ PyQt5 5.15.4:
 PyQt5-tools 5.15.2:
 > pip install PyQt5-tools
 
-4.Set environmental variable of PyQt5-tools and environmental path of PyQt5
+4. Set environmental variable of PyQt5-tools and environmental path of PyQt5
+
+## Model 
