@@ -38,3 +38,4 @@ PyQt5-tools 5.15.2:
 4. Set environmental variable of PyQt5-tools and environmental path of PyQt5
 
 ## Model 
+Please read FFI-Net V1.0 manual before using the sorftware.
